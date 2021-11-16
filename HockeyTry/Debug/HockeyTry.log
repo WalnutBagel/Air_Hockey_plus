@@ -1,0 +1,70 @@
+﻿  HockeyTry.cpp
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(49,19): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(59,20): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(157,22): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(160,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(171,17): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(216,31): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(223,31): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(233,31): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(238,31): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(248,32): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(255,32): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(259,28): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(269,28): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(274,28): warning C4309: =: усечение константного значения
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(291,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(306,31): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(309,26): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(312,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(324,26): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(340,26): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(342,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(344,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(361,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(361,41): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(365,31): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(382,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(384,34): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(386,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(390,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(396,26): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(399,34): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(401,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(403,34): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(416,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(420,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(422,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(426,26): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(430,34): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(432,25): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(434,34): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(451,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(455,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(458,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(460,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(471,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(473,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(477,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(479,22): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(482,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(484,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(486,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(491,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(493,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(497,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(502,22): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(505,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(507,21): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(509,30): error C2065: h: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(542,127): error C2059: синтаксическая ошибка: ;
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(544,43): error C2065: lenght: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(544,49): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(544,49): error C2059: синтаксическая ошибка: :
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(545,37): error C2065: reset: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(545,43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "time"
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(545,50): error C2001: newline в константе
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(546,29): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cout"
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(547,47): error C2065: lenght: необъявленный идентификатор
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(547,54): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+D:\Programming\C++\HockeyTry\HockeyTry\HockeyTry.cpp(547,54): error C2059: синтаксическая ошибка: :
